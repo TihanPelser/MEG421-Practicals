@@ -5,7 +5,7 @@ The practical consisted of 3 different aspects; each addressed seperately.
 
 The descriptions below were adapted from the instruction sheets (written by Dr. Theunis Botha):
 
-## Practical 1
+## Practical 1 (Sensing.c)
 A sensor value should be recorded by a PIC32MM, the output should be displayed by means
 of the R/G/B LED on the PIC32MM Curiosity board. The input can be scaled between 0-
 100% and the output displayed as:
@@ -21,7 +21,7 @@ of the R/G/B LED on the PIC32MM Curiosity board. The input can be scaled between
 
 For the purpose of this practical, the potentiometer on the PIC32MM Curiosity Dev Board was used as a sensor.
 
-## Practical 2
+## Practical 2 (PWMControl.c)
 
 The aim of the practical is to gain practical experience of the circuits discussed during this module.
 1.  Using a PIC32MM curiosity board develop a program which can uses PWM to control
@@ -34,7 +34,7 @@ The aim of the practical is to gain practical experience of the circuits discuss
     control a DC-motor’s speed. The P-Channel must supply current to the motor. Parts will
     be supplied
     
-## Practical 3
+## Practical 3 (PIDImplementation.c)
 
 The aim of this practical is to create a feedback controller of which the set point can be adjusted.
 The controller is to control the distance of a linear actuator between 25mm and 225mm. The
