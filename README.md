@@ -70,4 +70,4 @@ In summary create a program which samples AN14 as set point, any other analogue 
 distance sensor. Determine the error and output the actuator speed and direction using the DAC
 output and digital pin respectively.
 
-A PID controller was implemented to control the motion of the actuator. Althought the full controller was included in the code, the integral and derivate gains (K_I and K_D) were set to zero, resulting in only a proportional term.
+A PID controller was implemented to control the motion of the actuator. Althought the full controller was included in the code, the integral and derivate gains (K<sub>I</sub> and K<sub>D</sub>) were set to zero, resulting in only a proportional term.
