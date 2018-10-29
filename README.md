@@ -3,7 +3,7 @@ Code for the PIC32 MCU for the Mechatronics 421 practical projects
 
 The practical consisted of 3 different aspects; each addressed seperately.
 
-The descriptions below were adapted from the instruction :
+The descriptions below were adapted from the instruction sheets (written by Dr. Theunis Botha):
 
 ## Practical 1
 A sensor value should be recorded by a PIC32MM, the output should be displayed by means
