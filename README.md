@@ -51,7 +51,7 @@ be assumed linear equation with the following 2 points.
 
 The feedback sensor has the following calibration from volts to distance in millimetres:
 
-$Distance[mm] = 74(Volts) − 28.09$
+Distance[mm] = 74(Volts) − 28.09
 
 In order to control the motorspeed two signals are required
 1.  Direction Pin: The digital direction pin tells the linear actuator to moves out or in. A
